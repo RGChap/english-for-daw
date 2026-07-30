@@ -36,7 +36,7 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 ---
 ### 4. Practical Exercise 1 (Ejercicios Prácticos) & Case Studies (Ejercicios prácticos y casos reales)
 
-> **Exercise 1 (básico):** Traduce esta frase típica de reunión al inglés:
+#### Exercise 1 (básico):** Traduce esta frase típica de reunión al inglés:
 > *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
 
 *(Escribe tu respuesta abajo)*
@@ -44,7 +44,7 @@ We are developing a web app. The frontend uses HTML/CSS, and the backend handles
 #### Solution (Solución):
 > *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
 
-### Exercise 2 (error HTTP):
+#### Exercise 2 (error HTTP):
 > **Traduce este comentario técnico de un error:**
 > *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
 > *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
