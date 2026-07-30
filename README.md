@@ -61,4 +61,4 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 
 #### Exercise 5 (Caso Real C - API)
 - **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
-- **English Solution:** *(Pendiente de resolver)*
+- **English Solution:** *(The request to the endpoint failed because the server response was very slow)*
