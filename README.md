@@ -29,3 +29,27 @@
 > *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
 
 *(Escribe tu respuesta abajo)*
+We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database.
+#### Solution (Solución):
+> *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
+
+---
+
+### 4. Client-Server Architecture & HTTP Basics (Conceptos Clave de Redes)
+
+Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocurren entre el navegador y el servidor:
+
+| Verb / Concept | Translation | Example in Context |
+| :--- | :--- | :--- |
+| **Request (n/v)** | Petición / Pedir | *"The browser sends an HTTP request to the server."* |
+| **Response (n)** | Respuesta | *"The server sends back a 200 OK response."* |
+| **Fetch (v)** | Obtener / Traer datos | *"We need to fetch the user profile from the API."* |
+| **Endpoint (n)** | Punto de acceso (URL) | *"This API endpoint returns a JSON object."* |
+
+---
+
+### 🎯 Quick Exercise 2:
+> **Traduce este comentario técnico de un error:**
+> *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
+> 
+> *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
