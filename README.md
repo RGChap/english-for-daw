@@ -20,6 +20,8 @@
 - **"To fix a bug"** $\rightarrow$ Corregir un error de código.
 - **"To handle data"** $\rightarrow$ Gestionar / procesar datos.
 - **"Client-side vs. Server-side"** $\rightarrow$ Lado del cliente (navegador) vs. Lado del servidor.
+- **"To handle"** $\rightarrow$ Encargarse de / Gestionar (ej. *"I handle the backend"*).
+- **"To be in charge of"** $\rightarrow$ Estar a cargo de / Encargarse de (ej. *"I am in charge of the database"*).
 ---
 #### Roles & Deployment Vocabulary:
 - **"To be in charge of" / "To handle"** $\rightarrow$ Encargarse de / Gestionar (ej. *"I handle the backend"*).
