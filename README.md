@@ -56,3 +56,17 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 > *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
 >
 >  Failed to fetch data. The server didn't respond to the request
+
+### 5. Extra Practice Exercises (Práctica Adicional)
+
+#### Exercise A:
+- **Spanish:** *"El navegador no puede obtener los datos del servidor. Por favor, comprueba la base de datos."*
+- **English:** *(Escribirás tu solución aquí)*
+
+#### Exercise B:
+- **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
+- **English:** *(Escribirás tu solución aquí)*
+
+#### Exercise C:
+- **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
+- **English:** *(Escribirás tu solución aquí)*
