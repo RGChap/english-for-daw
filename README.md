@@ -51,5 +51,5 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 ### 🎯 Quick Exercise 2:
 > **Traduce este comentario técnico de un error:**
 > *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
-> 
+> Failed to fetch data. The server didn't respond to the request
 > *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
