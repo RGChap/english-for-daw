@@ -34,33 +34,24 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 | **Endpoint (n)** | Punto de acceso (URL) | *"This API endpoint returns a JSON object."* |
 
 ---
-### 4. Practical Exercise 1 (Ejercicios Prácticos) & Case Studies (Ejercicios prácticos y casos reales)
+### 4. Practical Exercises & Case Studies
 
-#### Exercise 1 (básico):** Traduce esta frase típica de reunión al inglés:
-> *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
+#### Exercise 1 (Básico)
+- **Spanish:** *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
+- **English Solution:** *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
 
-*(Escribe tu respuesta abajo)*
-We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database.
-#### Solution (Solución):
-> *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
+#### Exercise 2 (Errores HTTP)
+- **Spanish:** *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
+- **English Solution:** *"Failed to fetch data. The server didn't respond to the request."*
 
-#### Exercise 2 (error HTTP):
-> **Traduce este comentario técnico de un error:**
-> *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
-> *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
->
->  Failed to fetch data. The server didn't respond to the request.
-
-### . Extra Practice Exercises (Práctica Adicional)
-
-#### Exercise A: (Soporte)
+#### Exercise 3 (Caso Real A - Soporte)
 - **Spanish:** *"El navegador no puede obtener los datos del servidor. Por favor, comprueba la base de datos."*
-- **English:** *(Escribirás tu solución aquí)*
+- **English Solution:** *(Pendiente de resolver)*
 
-#### Exercise B: (Equipo)
+#### Exercise 4 (Caso Real B - Equipo)
 - **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
-- **English:** *(Escribirás tu solución aquí)*
+- **English Solution:** *(Pendiente de resolver)*
 
-#### Exercise C: (Equipo)
+#### Exercise 5 (Caso Real C - API)
 - **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
-- **English:** *(Escribirás tu solución aquí)*
+- **English Solution:** *(Pendiente de resolver)*
