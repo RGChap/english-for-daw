@@ -21,6 +21,11 @@
 - **"To handle data"** $\rightarrow$ Gestionar / procesar datos.
 - **"Client-side vs. Server-side"** $\rightarrow$ Lado del cliente (navegador) vs. Lado del servidor.
 ---
+#### Roles & Deployment Vocabulary:
+- **"To be in charge of" / "To handle"** $\rightarrow$ Encargarse de / Gestionar (ej. *"I handle the backend"*).
+- **"To deploy"** $\rightarrow$ Subir a producción / Desplegar código.
+- **"I will + verb"** $\rightarrow$ Voy a + verbo (ej. *"I will deploy tomorrow"*).
+- **"To the server"** $\rightarrow$ Al servidor.
 
 ### 3. Client-Server Architecture & HTTP Basics (Conceptos Clave de Redes)
 
