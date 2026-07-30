@@ -57,7 +57,7 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 
 #### Exercise 4 (Caso Real B - Equipo)
 - **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
-- **English Solution:** *(Pendiente de resolver)*
+- **English Solution:** *(I handle the backend. Tomorrow, I will deploy the app to the server.)*
 
 #### Exercise 5 (Caso Real C - API)
 - **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
