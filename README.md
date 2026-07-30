@@ -20,22 +20,9 @@
 - **"To fix a bug"** $\rightarrow$ Corregir un error de código.
 - **"To handle data"** $\rightarrow$ Gestionar / procesar datos.
 - **"Client-side vs. Server-side"** $\rightarrow$ Lado del cliente (navegador) vs. Lado del servidor.
-
 ---
 
-### 3. Practical Exercise 1 (Ejercicios Prácticos)
-
-> **Reto 1:** Traduce esta frase típica de reunión al inglés:
-> *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
-
-*(Escribe tu respuesta abajo)*
-We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database.
-#### Solution (Solución):
-> *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
-
----
-
-### 4. Client-Server Architecture & HTTP Basics (Conceptos Clave de Redes)
+### 3. Client-Server Architecture & HTTP Basics (Conceptos Clave de Redes)
 
 Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocurren entre el navegador y el servidor:
 
@@ -47,26 +34,33 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 | **Endpoint (n)** | Punto de acceso (URL) | *"This API endpoint returns a JSON object."* |
 
 ---
+### 4. Practical Exercise 1 (Ejercicios Prácticos) & Case Studies (Ejercicios prácticos y casos reales)
 
-### 🎯 Quick Exercise 2:
+> **Exercise 1 (básico):** Traduce esta frase típica de reunión al inglés:
+> *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
+
+*(Escribe tu respuesta abajo)*
+We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database.
+#### Solution (Solución):
+> *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
+
+### Exercise 2 (error HTTP):
 > **Traduce este comentario técnico de un error:**
 > *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
->
->
 > *(Pista: Usar 'fetch', 'failed to', 'server', 'respond', 'request')*
 >
->  Failed to fetch data. The server didn't respond to the request
+>  Failed to fetch data. The server didn't respond to the request.
 
 ### . Extra Practice Exercises (Práctica Adicional)
 
-#### Exercise A:
+#### Exercise A: (Soporte)
 - **Spanish:** *"El navegador no puede obtener los datos del servidor. Por favor, comprueba la base de datos."*
 - **English:** *(Escribirás tu solución aquí)*
 
-#### Exercise B:
+#### Exercise B: (Equipo)
 - **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
 - **English:** *(Escribirás tu solución aquí)*
 
-#### Exercise C:
+#### Exercise C: (Equipo)
 - **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
 - **English:** *(Escribirás tu solución aquí)*
