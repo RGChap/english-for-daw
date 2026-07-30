@@ -46,7 +46,7 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 
 #### Exercise 3 (Caso Real A - Soporte)
 - **Spanish:** *"El navegador no puede obtener los datos del servidor. Por favor, comprueba la base de datos."*
-- **English Solution:** *(Pendiente de resolver)*
+- **English Solution:** *(The browser cannot fetch data from the server. please check the database.)*
 
 #### Exercise 4 (Caso Real B - Equipo)
 - **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
