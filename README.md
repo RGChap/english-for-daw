@@ -129,4 +129,4 @@ Repositorio de apuntes, vocabulario técnico y ejercicios prácticos de inglés 
 #### Ejercicio 1.1
 * **Contexto:** Reporte de estado en el servidor.
 * **Español:** *"La API está sobrecargada y el frontend no puede obtener los datos."*
-* **Inglés:** *(Pendiente de completar)*
+* **Inglés:** *("The API is overloaded, and the frontend cannot fetch the data.")*
