@@ -91,3 +91,7 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 #### Exercise 7 (Caso Real E - Optimización)
 - **Spanish:** *"Necesitamos optimizar la base de datos para mejorar el rendimiento."*
 - **English Solution:** *"We need to optimize the database to improve the performance."*
+
+#### Exercise 8 (Caso Real F - Autenticación)
+- **Spanish:** *"El usuario no puede iniciar sesión debido a un error de autenticación."*
+- **English Solution:** *"The user cannot log in because of an authentication error."*
