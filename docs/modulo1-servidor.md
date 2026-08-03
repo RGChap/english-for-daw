@@ -39,12 +39,6 @@
 # 📌 Módulo 1 (Ampliado): Estado del Servidor, Errores y Rendimiento
 
 [← Volver al Índice Principal](../README.md)
-
----
-# 📌 Módulo 1 (Ampliado): Estado del Servidor, Errores y Rendimiento
-
-[← Volver al Índice Principal](../README.md)
-
 ---
 
 ## 📖 Vocabulario Técnico Nuevo
