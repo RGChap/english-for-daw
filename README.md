@@ -95,3 +95,38 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 #### Exercise 8 (Caso Real F - Autenticación)
 - **Spanish:** *"El usuario no puede iniciar sesión debido a un error de autenticación."*
 - **English Solution:** *"The user cannot log in because of an authentication error."*
+
+
+# 💻 English for DAW (Development of Web Applications)
+
+Repositorio de apuntes, vocabulario técnico y ejercicios prácticos de inglés profesional para desarrollo web.
+
+---
+
+## 📌 Módulo 1: Backend, Servidores y Rendimiento
+
+### Lección 1: Tiempos de Respuesta y Rendimiento de la API
+
+#### Vocabulario Técnico
+| Concepto (Español) | Término (Inglés) | Pronunciación Aprox. |
+| :--- | :--- | :--- |
+| **Interfaz de Programación** | `API` | *[ei-pi-ái]* |
+| **Tiempo de respuesta** | `Response time` | *[ri-spóns táim]* |
+| **Sobrecargado/a** | `Overloaded` | *[óu-ver-lóu-ded]* |
+| **Tardar demasiado** | `To take too long` | *[tu téik tu long]* |
+| **Obtener / traer datos** | `To fetch data` | *[tu fech déi-ta]* |
+
+#### Estructuras de Comunicación
+* **Para indicar lentitud:**  
+  `[Componente]` + **is taking too long to respond.**
+* **Para indicar fallo de lectura/carga:**  
+  `[La aplicación]` + **failed to fetch data from** + `[Fuente]`.
+
+---
+
+### 📝 Práctica y Ejercicios
+
+#### Ejercicio 1.1
+* **Contexto:** Reporte de estado en el servidor.
+* **Español:** *"La API está sobrecargada y el frontend no puede obtener los datos."*
+* **Inglés:** *(Pendiente de completar)*
