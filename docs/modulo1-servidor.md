@@ -16,8 +16,6 @@
 
 ## 📝 Práctica Interactiva
 
-## 📝 Práctica Interactiva
-
 #### 1. Componente individual en singular
 - **Español:** *"El servidor está caído."*
 - **Inglés:** `The server is down.`
