@@ -130,3 +130,29 @@ Repositorio de apuntes, vocabulario técnico y ejercicios prácticos de inglés 
 * **Contexto:** Reporte de estado en el servidor.
 * **Español:** *"La API está sobrecargada y el frontend no puede obtener los datos."*
 * **Inglés:** *("The API is overloaded, and the frontend cannot fetch the data.")*
+
+### Lección 2: Caídas del Servidor y Errores HTTP (500)
+
+#### Vocabulario Técnico
+| Concepto (Español) | Término (Inglés) | Pronunciación Aprox. |
+| :--- | :--- | :--- |
+| **Servidor caído** | `Server is down` | *[sér-ver is dáun]* |
+| **Caída del sistema** | `Crash` | *[krash]* |
+| **Error interno** | `Internal Server Error` | *[in-tér-nal sér-ver é-rror]* |
+| **Gestionar un error** | `To handle an error` | *[tu hán-del an é-rror]* |
+| **Registros del sistema** | `Logs` | *[logs]* |
+
+#### Estructuras de Comunicación
+* **Notificar caída:**  
+  `[Servicio]` + **is down.**
+* **Notificar error HTTP:**  
+  `[Endpoint]` + **returned a 500 Internal Server Error.**
+
+---
+
+### 📝 Práctica y Ejercicios
+
+#### Ejercicio 1.2
+* **Contexto:** Alerta en el canal de backend.
+* **Español:** *"El servidor está caído y la base de datos no responde."*
+* **Inglés:** *(Pendiente)*
