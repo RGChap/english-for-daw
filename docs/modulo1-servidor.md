@@ -16,6 +16,8 @@
 
 ## 📝 Práctica Interactiva
 
+## 📝 Práctica Interactiva
+
 #### 1. Componente individual en singular
 - **Español:** *"El servidor está caído."*
 - **Inglés:** `The server is down.`
@@ -30,8 +32,8 @@
 
 #### 4. Notificar falta de respuesta
 - **Español:** *"La API no está respondiendo."*
-- **Inglés:** *(The API is not responding)*
+- **Inglés:** `The API is not responding.`
 
 #### 5. Reportar error de servidor
 - **Español:** *"El servidor devolvió un error 500."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server returned a 500 error.`
