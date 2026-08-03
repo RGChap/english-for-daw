@@ -181,3 +181,114 @@ Repositorio de apuntes, vocabulario técnico y ejercicios prácticos de inglés 
 * **Contexto:** Alerta en el canal de backend.
 * **Español:** *"El servidor está caído y la base de datos no responde."*
 * **Inglés:** *(Pendiente)*
+
+# 💻 English for DAW: Progressive Practice Guide
+
+Guía de aprendizaje práctico e interactivo de inglés técnico para Desarrollo de Aplicaciones Web.
+
+---
+
+## 📌 Módulo 1: Estado del Servidor y Errores (Server & Errors)
+
+### 📖 Teoria y Vocabulario Clave
+- **Server:** Servidor
+- **Database:** Base de datos
+- **API:** Interfaz de programación
+- **Is down / Are down:** Está caído / Están caídos (singular / plural)
+- **Is not responding:** No está respondiendo
+- **Returned a 500 error:** Devolvió un error 500
+
+---
+
+### 📝 Interacciones y Ejercicios (Módulo 1)
+
+#### 1. Componente individual en singular
+- **Español:** *"El servidor está caído."*
+- **Inglés:** `The server is down.`
+
+#### 2. Cambio de sujeto en singular
+- **Español:** *"La base de datos está caída."*
+- **Inglés:** `The database is down.`
+
+#### 3. Plural con dos elementos
+- **Español:** *"El servidor y la base de datos están caídos."*
+- **Inglés:** `The server and the database are down.`
+
+#### 4. Notificar falta de respuesta
+- **Español:** *"La API no está respondiendo."*
+- **Inglés:** *(Pendiente)*
+
+#### 5. Reportar error de servidor
+- **Español:** *"El servidor devolvió un error 500."*
+- **Inglés:** *(Pendiente)*
+
+---
+
+## 📌 Módulo 2: Rendimiento y Peticiones (Performance & Requests)
+
+### 📖 Teoria y Vocabulario Clave
+- **Slow:** Lento/a
+- **Is taking too long:** Está tardando demasiado
+- **Failed to fetch:** Falló al obtener / no pudo traer
+- **Data:** Datos / Información
+- **Request:** Petición / Solicitud
+
+---
+
+### 📝 Interacciones y Ejercicios (Módulo 2)
+
+#### 6. Notificar lentitud simple
+- **Español:** *"La base de datos está lenta."*
+- **Inglés:** *(Pendiente)*
+
+#### 7. Expresar tiempo de espera
+- **Español:** *"La petición está tardando demasiado."*
+- **Inglés:** *(Pendiente)*
+
+#### 8. Fallo al traer información
+- **Español:** *"La aplicación no pudo obtener los datos."*
+- **Inglés:** *(Pendiente)*
+
+#### 9. Combinar lentitud y error de carga
+- **Español:** *"La API está lenta y no pudo obtener los datos."*
+- **Inglés:** *(Pendiente)*
+
+#### 10. Reportar sobrecarga
+- **Español:** *"El servidor está sobrecargado."*
+- **Inglés:** *(Pendiente)*
+
+---
+
+## 📌 Módulo 3: Git, Control de Versiones y Bugs (Git & Debugging)
+
+### 📖 Teoria y Vocabulario Clave
+- **The team:** El equipo
+- **Fixed:** Corrigió / Arregló
+- **The bug:** El error / fallo
+- **Latest version:** Última versión
+- **Branch:** Rama
+- **Merged:** Fusionado / Integrado
+
+---
+
+### 📝 Interacciones y Ejercicios (Módulo 3)
+
+#### 11. Corregir un error (Pasado simple)
+- **Español:** *"El equipo corrigió el error."*
+- **Inglés:** *(Pendiente)*
+
+#### 12. Especificar la versión
+- **Español:** *"El equipo corrigió el error en la última versión."*
+- **Inglés:** *(Pendiente)*
+
+#### 13. Subir cambios a Git
+- **Español:** *"Subí los cambios a la rama principal."*
+- **Inglés:** *(Pendiente)*
+
+#### 14. Pull Request integrado
+- **Español:** *"La rama fue integrada."*
+- **Inglés:** *(Pendiente)*
+
+#### 15. Reportar solución completa
+- **Español:** *"El error fue corregido en la última versión."*
+- **Inglés:** *(Pendiente)*
