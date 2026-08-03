@@ -41,6 +41,11 @@
 [← Volver al Índice Principal](../README.md)
 
 ---
+# 📌 Módulo 1 (Ampliado): Estado del Servidor, Errores y Rendimiento
+
+[← Volver al Índice Principal](../README.md)
+
+---
 
 ## 📖 Vocabulario Técnico Nuevo
 - **offline:** Desconectado/a
@@ -61,56 +66,56 @@
 
 #### 2. Confirmar estado activo
 - **Español:** *"La base de datos está en línea."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The database is online.`
 
 #### 3. Reportar fallo general
 - **Español:** *"La API no funciona."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The API is not working.`
 
 #### 4. Reportar sobrecarga
 - **Español:** *"El servidor está sobrecargado."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server is overloaded.`
 
 #### 5. Notificar lentitud
 - **Español:** *"La base de datos está lenta."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The database is slow.`
 
 #### 6. Confirmar disponibilidad
 - **Español:** *"La API está lista."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The API is ready.`
 
 #### 7. Plural con desconexión
 - **Español:** *"El servidor y la base de datos están desconectados."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server and the database are offline.`
 
 #### 8. Reportar fallo de base de datos
 - **Español:** *"La base de datos falló."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The database failed.`
 
 #### 9. Reportar fallo de servidor
 - **Español:** *"El servidor no funciona."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server is not working.`
 
 #### 10. Plural con estado activo
 - **Español:** *"La API y el servidor están en línea."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The API and the server are online.`
 
 #### 11. Reportar sobrecarga en base de datos
 - **Español:** *"La base de datos está sobrecargada."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The database is overloaded.`
 
 #### 12. Confirmar servidor preparado
 - **Español:** *"El servidor está listo."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server is ready.`
 
 #### 13. Notificar lentitud en API
 - **Español:** *"La API está lenta."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The API is slow.`
 
 #### 14. Reportar caída del servidor
 - **Español:** *"El servidor falló."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The server failed.`
 
 #### 15. Plural sin funcionamiento
 - **Español:** *"La base de datos y la API no funcionan."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** `The database and the API are not working.`
