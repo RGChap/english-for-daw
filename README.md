@@ -87,3 +87,7 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 #### Exercise 6 (Caso Real D - Rendimiento)
 - **Spanish:** *"La página web es muy lenta debido a demasiadas peticiones al servidor."*
 - **English Solution:** *"The website is very slow because of too many requests to the server."*
+
+#### Exercise 7 (Caso Real E - Optimización)
+- **Spanish:** *"Necesitamos optimizar la base de datos para mejorar el rendimiento."*
+- **English Solution:** *"We need to optimize the database to improve the performance."*
