@@ -30,7 +30,7 @@
 
 #### 4. Notificar falta de respuesta
 - **Español:** *"La API no está respondiendo."*
-- **Inglés:** *(Pendiente)*
+- **Inglés:** *(The API is not responding)*
 
 #### 5. Reportar error de servidor
 - **Español:** *"El servidor devolvió un error 500."*
