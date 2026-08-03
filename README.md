@@ -62,3 +62,28 @@ Cuando hablas de desarrollo web en inglés, estas son las acciones clave que ocu
 #### Exercise 5 (Caso Real C - API)
 - **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
 - **English Solution:** *(The request to the endpoint failed because the server response was very slow)*
+### 4. Practical Exercises & Case Studies
+
+#### Exercise 1 (Básico)
+- **Spanish:** *"Estamos desarrollando una aplicación web. El frontend usa HTML/CSS y el backend gestiona la base de datos."*
+- **English Solution:** *"We are developing a web app. The frontend uses HTML/CSS, and the backend handles the database."*
+
+#### Exercise 2 (Errores HTTP)
+- **Spanish:** *"Error: No se pudieron obtener los datos. El servidor no respondió a la petición."*
+- **English Solution:** *"Failed to fetch data. The server didn't respond to the request."*
+
+#### Exercise 3 (Caso Real A - Soporte)
+- **Spanish:** *"El navegador no puede obtener los datos del servidor. Por favor, comprueba la base de datos."*
+- **English Solution:** *"The browser cannot fetch data from the server. Please check the database."*
+
+#### Exercise 4 (Caso Real B - Equipo)
+- **Spanish:** *"Yo me encargo del backend. Voy a subir (deploy) la aplicación al servidor mañana."*
+- **English Solution:** *"I handle the backend. I will deploy the app to the server tomorrow."*
+
+#### Exercise 5 (Caso Real C - API)
+- **Spanish:** *"La petición al endpoint falló porque la respuesta del servidor fue muy lenta."*
+- **English Solution:** *"The request to the endpoint failed because the server response was very slow."*
+
+#### Exercise 6 (Caso Real D - Rendimiento)
+- **Spanish:** *"La página web es muy lenta debido a demasiadas peticiones al servidor."*
+- **English Solution:** *"The website is very slow because of too many requests to the server."*
