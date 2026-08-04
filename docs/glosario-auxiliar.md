@@ -4,6 +4,12 @@
 
 ---
 
+# 📖 Glosario Auxiliar de Inglés Técnico (DAW)
+
+[← Volver al Índice Principal](../README.md)
+
+---
+
 ## 🔤 Vocabulario y Verbos (Orden Alfabético por Castellano)
 
 | Castellano (Español) | Inglés (Sustantivo / Término) | Verbo Presente | Verbo Pasado / Participio | Notas de Uso Técnico |
@@ -11,9 +17,10 @@
 | **Acceso** | Access | - | - | Sustantivo (*Grant/Deny access*) |
 | **Adaptable** | Responsive | - | - | Para pantallas y diseños (UI) |
 | **Administrador/a** | Admin / Administrator | - | - | Rol de usuario con permisos totales |
+| **Antes de** | Before | - | - | Preposición (*before sending*) |
 | **Aplicación** | App / Application | - | - | *App* es la forma corta común |
 | **Actualizar / Modificar** | - | To update | Updated | Modificar datos o estado |
-| **Autenticar** | - | To authenticate | Authenticated | Verificar la identidad del usuario |
+| **Autenticar / Autenticado** | Authenticated (Adj.) | To authenticate | Authenticated | Verificar la identidad / Usuario verificado |
 | **Autenticación** | Authentication | - | - | Proceso de verificación (*Who are you?*) |
 | **Autorizar** | - | To authorize | Authorized | Verificar los permisos del usuario |
 | **Autorización** | Authorization | - | - | Proceso de permisos (*What can you do?*) |
@@ -21,10 +28,11 @@
 | **Borrar / Eliminar** | - | To delete / To remove | Deleted / Removed | Eliminar archivos o registros |
 | **Botón** | Button | - | - | Elemento de la interfaz (UI) |
 | **Cambiar** | - | To change | Changed | Modificar ajustes, roles o datos |
-| **Cargar** | - | To load | Loaded | Cargar páginas, tablas o datos |
+| **Cargar** | - | To load | Loaded | Cargar páginas, vistas o componentes |
 | **Carga útil / Datos** | Payload | - | - | **NO** es verbo (no usar *payloaded*) |
 | **Caerse / Romperse** | - | To crash / To go down | Crashed / Went down | Servidores o aplicaciones |
 | **Cerrar sesión** | - | To log out | Logged out | Verbo separado (*Logged out of*) |
+| **Cliente (Software/Navegador)**| Client | - | - | Dispositivo o app que pide datos (*No confundir con Customer*) |
 | **Componente** | Component | - | - | Elemento de interfaz reutilizable |
 | **Conceder / Dar permiso** | - | To grant | Granted | Dar acceso (*Grant permission*) |
 | **Confirmar (Git)** | - | To commit | Committed | Guardar cambios en repositorio |
@@ -48,14 +56,18 @@
 | **Iniciar sesión** | - | To log in | Logged in | Verbo separado (*Log in to*) |
 | **Insertar** | - | To insert | Inserted | Añadir registros en BD |
 | **Interfaz** | Interface / UI | - | - | *UI* = User Interface |
+| **Inválido / Inválida** | Invalid | - | - | Adjetivo (*Invalid token*) |
 | **Lento / Lenta** | Slow | - | - | Adjetivo |
+| **Mensaje** | Message | - | - | Sustantivo (*Display a message*) |
 | **Mostrar** | - | To display | Displayed | Verbo |
 | **Navegador** | Browser | - | - | Chrome, Firefox, Edge, etc. |
-| **Obtener / Traer** | - | To fetch | Fetched | Traer datos de una API/BD |
+| **Obtener / Traer** | - | To fetch / To retrieve | Fetched / Retrieved | Traer o recuperar datos de una API/BD |
 | **Ocultar** | - | To hide | Hid (Pasado) / Hidden (Part.) | Verbo irregular |
 | **Página** | Page | - | - | Sustantivo |
+| **Porque** | Because | - | - | Conector de causa |
 | **Permiso** | Permission | - | - | Acción permitida (*Read/Write*) |
 | **Petición** | Request | - | - | Petición HTTP al servidor |
+| **Probar / Testear** | - | To test | Tested | Probar código, funciones o componentes |
 | **Punto de acceso (API)** | Endpoint | - | - | URL de la API. Usa **an endpoint** |
 | **Rama (Git)** | Branch | - | - | Sustantivo |
 | **Recibir** | - | To receive | Received | Verbo |
@@ -73,8 +85,40 @@
 | **Tabla** | Table | - | - | Tabla de base de datos |
 | **Token** | Token | - | - | Cadena de texto cifrada de acceso |
 | **Válido / Válida** | Valid | - | - | Adjetivo (*Valid token*) |
+| **Verificar** | - | To verify | Verified | Verificar tokens, credenciales o datos |
 | **Vincular** | - | To bind | Bound | Conectar datos con la vista |
 | **Vista** | View | - | - | Pantalla visual para el usuario |
+
+---
+
+### 💡 Dificultades Clave y Matices Gramaticales
+
+* **Client vs. Customer:**
+  * **`Client`**: El dispositivo, navegador o app que hace peticiones al servidor.
+  * **`Customer`**: El usuario comprador final de un servicio o tienda.
+* **Fetch vs. Retrieve:**
+  * Ambos traducen "traer/obtener", pero **`retrieve`** suena especialmente técnico cuando recuperas datos guardados en una base de datos o almacenamiento.
+* **Preposiciones + Gerundio (-ing):**
+  * Verbos tras preposiciones como `before` o `after` siempre llevan **`-ing`**: *before sending*, *after logging in*.
+* **Authentication vs. Authorization:**
+  * **`Authentication`**: Identificación (*¿Quién eres?*).
+  * **`Authorization`**: Permisos (*¿Qué puedes hacer?*).
+* **Phrasal Verbs (Log in / Log out):**
+  * Verbo separado: *To log in* / *To log out*.
+  * Sustantivo junto: *The login button*.
+* **Fix vs. Resolve:**
+  * **`To fix`**: Se usa para **`bugs`**.
+  * **`To resolve`**: Se usa para **`issues`**.
+* **Send vs. Push:**
+  * **`Send`**: Enviar peticiones, respuestas o datos (HTTP / API).
+  * **`Push`**: Subir ramas o cambios de código (Git).
+* **Uso de A / AN:**
+  * Usa **`a`** delante de consonante: *a bug*, *a branch*, *a server*.
+  * Usa **`an`** delante de vocal: *an issue*, *an API*, *an endpoint*.
+* **Palabras incontables:**
+  * **`Data`**: Nunca lleva "s" al final (*the data*).
+* **Falsos verbos:**
+  * **`Payload`**: Es la carga útil de datos, un **sustantivo**. No existe como verbo.
 
 
 ### 💡 Dificultades Clave y Matices Gramaticales
