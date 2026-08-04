@@ -72,6 +72,7 @@
 | **Subir / Enviar cambios (Git)** | - | To push | Pushed | Enviar cambios a GitHub/Servidor |
 | **Tabla** | Table | - | - | Tabla de base de datos |
 | **Token** | Token | - | - | Cadena de texto cifrada de acceso |
+| **Válido / Válida** | Valid | - | - | Adjetivo (*Valid token*) |
 | **Vincular** | - | To bind | Bound | Conectar datos con la vista |
 | **Vista** | View | - | - | Pantalla visual para el usuario |
 
