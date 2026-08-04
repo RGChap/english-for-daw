@@ -17,8 +17,6 @@
 
 ## 📝 Práctica Interactiva (10 Ejercicios)
 
-## 📝 Práctica Interactiva (10 Ejercicios)
-
 #### 1. Notificar tiempo de espera agotado
 - **Español:** *"La petición agotó el tiempo de espera."*
 - **Inglés:** The request timed out.
@@ -58,3 +56,26 @@
 #### 10. Confirmar tiempo de espera superado en base de datos
 - **Español:** *"La base de datos agotó el tiempo de espera."*
 - **Inglés:** The database timed out.
+
+- ## 🔁 Ejercicios de Refuerzo
+
+1. **"El servidor agota el tiempo de espera."**  
+   👉 `The server times out.`
+2. **"La API tiene latencia alta."**  
+   👉 `The API has high latency.`
+3. **"La base de datos recibe la petición."**  
+   👉 `The database receives the request.`
+4. **"La respuesta consume mucho ancho de banda."**  
+   👉 `The response consumes a lot of bandwidth.`
+5. **"El servidor no envió la petición."**  
+   👉 `The server didn't send the request.`
+6. **"La base de datos y la API tienen latencia alta."**  
+   👉 `The database and the API have high latency.`
+7. **"El servidor está enviando la respuesta."**  
+   👉 `The server is sending the response.`
+8. **"La petición es muy lenta."**  
+   👉 `The request is very slow.`
+9. **"La API agotó el tiempo de espera."**  
+   👉 `The API timed out.`
+10. **"La base de datos no recibió la respuesta."**  
+   👉 `The database didn't receive the response.`
