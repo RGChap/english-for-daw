@@ -48,3 +48,37 @@
 
 10. **"Él confirmó los cambios."**  
    👉 `He committed the changes.`
+
+---
+
+## 🔁 Ejercicios de Refuerzo (Pasados y Artículos)
+
+1. **"El equipo creó una nueva rama."**  
+   👉 `The team created a new branch.`
+
+2. **"Yo solucioné el problema."**  
+   👉 `I resolved the issue.`
+
+3. **"Él subió los cambios."**  
+   👉 `He pushed the changes.`
+
+4. **"El desarrollador confirmó los cambios."**  
+   👉 `The developer committed the changes.`
+
+5. **"Trajimos los últimos cambios."**  
+   👉 `We pulled the latest changes.`
+
+6. **"La base de datos tiene un problema."**  
+   👉 `The database has an issue.`
+
+7. **"Ella solucionó el bug."**  
+   👉 `She fixed the bug.`
+
+8. **"Fusioné la rama."**  
+   👉 `I merged the branch.`
+
+9. **"El equipo tiene un conflicto de fusión."**  
+   👉 `The team has a merge conflict.`
+
+10. **"El servidor arregló el problema."**  
+   👉 `The server fixed the issue.`
