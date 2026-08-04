@@ -10,8 +10,9 @@
 - **Timeout / Timed out:** Tiempo de espera agotado / Se agotó el tiempo
 - **High latency:** Latencia alta / Retardo elevado
 - **Bandwidth:** Ancho de banda
-- **To send / Sending:** Enviar / Enviando
-- **To receive / Receiving:** Recibir / Recibiendo
+- **To send / Sent / Sending:** Enviar / Envió / Enviando
+- **To receive / Received / Receiving:** Recibir / Recibió / Recibiendo
+- **To answer / Answered:** Responder / Respondió
 
 ---
 
