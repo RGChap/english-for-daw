@@ -51,9 +51,15 @@
 | **Vista** | View | - | - | Sustantivo |
 
 ---
+### 💡 Dificultades Clave y Matices Gramaticales
 
-### 💡 Reglas Rápidas de Gramática
-
-* **Artículos:** Usa **`a`** antes de sonido de consonante (*a branch, a server*) y **`an`** antes de sonido de vocal (*an issue, an API*).
-* **Plurales incontables:** La palabra **`data`** nunca lleva "s" al final (*the data*, no "the datas").
-* **Payload:** Es un sustained (*los datos transmitidos*), no se usa como verbo.
+* **Bug vs. Issue:**
+  * **`Bug`**: Es específicamente un fallo o error en el código. Basta con decir *a bug* (nunca hace falta decir "bug code").
+  * **`Issue`**: Es una incidencia, tarea o problema general a resolver en el proyecto.
+* **Uso de A / AN:**
+  * Usa **`a`** delante de palabras que empiezan por consonante: *a bug*, *a branch*, *a server*.
+  * Usa **`an`** delante de palabras que empiezan por vocal: *an issue*, *an API*, *an endpoint*.
+* **Palabras incontables:**
+  * **`Data`**: Nunca lleva "s" al final (*the data*).
+* **Falsos verbos:**
+  * **`Payload`**: Es la carga útil de datos, un **sustantivo**. No existe como verbo.
