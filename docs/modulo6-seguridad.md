@@ -47,3 +47,20 @@ En este módulo aprenderás el vocabulario esencial para gestionar sesiones de u
 * **To Grant vs. To Deny:**
   * **`Grant`**: Se usa para dar o conceder acceso/permisos (*grant access*).
   * **`Deny`**: Se usa para rechazar o denegar acceso (*access denied*).
+
+ ## 📝 Práctica Inicial (Soluciones)
+
+1. **"El usuario inició sesión."**  
+   👉 `The user logged in.`
+
+2. **"El servidor denegó el acceso."**  
+   👉 `The server denied access.`
+
+3. **"El administrador concedió el permiso."**  
+   👉 `The admin granted permission.`
+
+4. **"Nosotros encriptamos la contraseña."**  
+   👉 `We encrypted the password.`
+
+5. **"La aplicación autenticó al usuario."**  
+   👉 `The app authenticated the user.`
