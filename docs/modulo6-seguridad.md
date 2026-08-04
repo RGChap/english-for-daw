@@ -64,3 +64,35 @@ En este módulo aprenderás el vocabulario esencial para gestionar sesiones de u
 
 5. **"La aplicación autenticó al usuario."**  
    👉 `The app authenticated the user.`
+
+   ## 📝 Práctica 2 (Soluciones)
+
+1. **"El servidor autorizó la petición."**  
+   👉 `The server authorized the request.`
+
+2. **"Ella cerró sesión."**  
+   👉 `She logged out.`
+
+3. **"El sistema envió el token."**  
+   👉 `The system sent the token.`
+
+4. **"El desarrollador encriptó las credenciales."**  
+   👉 `The developer encrypted the credentials.`
+
+5. **"La aplicación denegó el permiso."**  
+   👉 `The app denied permission.`
+
+6. **"Nosotros autenticamos la sesión."**  
+   👉 `We authenticated the session.`
+
+7. **"El administrador cambió el rol."**  
+   👉 `The admin changed the role.`
+
+8. **"El usuario inició sesión en la aplicación."**  
+   👉 `The user logged in to the app.`
+
+9. **"El servidor concedió el acceso."**  
+   👉 `The server granted access.`
+
+10. **"La aplicación recibió la contraseña."**  
+   👉 `The app received the password.`
