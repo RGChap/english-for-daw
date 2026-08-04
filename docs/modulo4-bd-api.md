@@ -4,12 +4,6 @@
 
 ---
 
-# 📌 Módulo 4: Bases de Datos, Estructura de Datos y APIs (Databases & APIs)
-
-[← Volver al Índice Principal](../README.md)
-
----
-
 ## 📖 Vocabulario Técnico Clave
 - **Query:** Consulta
 - **Table:** Tabla
