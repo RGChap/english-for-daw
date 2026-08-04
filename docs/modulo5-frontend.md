@@ -9,6 +9,9 @@
 - **Responsive:** Adaptable (a diferentes pantallas)
 - **State:** Estado (datos actuales de la interfaz)
 - **Component:** Componente (elemento reutilizable)
+- **View:** Vista (la interfaz que ve el usuario)
+- **Browser:** Navegador web
+- **App (Application):** Aplicación
 - **To render / Rendered:** Renderizar o dibujar en pantalla / Renderizó
 - **To display / Displayed:** Mostrar / Mostró
 - **To hide / Hid / Hidden:** Ocultar / Ocultó / Ocultado
@@ -17,6 +20,32 @@
 
 ---
 
-## 📝 Práctica Interactiva (10 Ejercicios)
+## 📝 Práctica Interactiva (Soluciones)
 
-*(Aquí irán tus respuestas)*
+1. **"El componente muestra el estado."**  
+   👉 `The component displays the state.`
+
+2. **"El desarrollador creó un diseño adaptable."**  
+   👉 `The developer created a responsive layout.`
+
+3. **"La aplicación renderizó la vista."**  
+   👉 `The app rendered the view.`
+
+4. **"Oculté el componente."**  
+   👉 `I hid the component.`
+
+5. **"El equipo vinculó los datos."**  
+   👉 `The team bound the data.`
+
+6. **"La interfaz es muy adaptable."**  
+   👉 `The interface is very responsive.`
+
+7. **"El navegador renderizó los estilos."**  
+   👉 `The browser rendered the styles.`
+
+8. **"Ella modificó el estado."**  
+   👉 `She updated the state.`
+
+9. **"El servidor ocultó los datos."**  
+   👉 `The server hid the data.`
+
