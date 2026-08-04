@@ -53,6 +53,11 @@
 ---
 ### 💡 Dificultades Clave y Matices Gramaticales
 
+### 💡 Dificultades Clave y Matices Gramaticales
+
+* **Fix vs. Resolve:**
+  * **`To fix`**: Se usa para **`bugs`** (código roto o fallos técnicos).
+  * **`To resolve`**: Se usa para **`issues`** (incidencias, tareas o conflictos de Git).
 * **Bug vs. Issue:**
   * **`Bug`**: Es específicamente un fallo o error en el código. Basta con decir *a bug* (nunca hace falta decir "bug code").
   * **`Issue`**: Es una incidencia, tarea o problema general a resolver en el proyecto.
