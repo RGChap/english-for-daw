@@ -80,3 +80,35 @@
    👉 `The API timed out.`
 10. **"La base de datos no recibió la respuesta."**  
    👉 `The database didn't receive the response.`
+
+## 🔁 Ejercicios de Dominio (-s en Presente y -ed en Pasado)
+
+1. **"El servidor recibe la petición."**  
+   👉 `The server receives the request.`
+
+2. **"La base de datos respondió la petición."**  
+   👉 `The database answered the request.`
+
+3. **"La API consume el ancho de banda."**  
+   👉 `The API consumes the bandwidth.`
+
+4. **"El servidor envió la respuesta."**  
+   👉 `The server sent the response.`
+
+5. **"La base de datos agota el tiempo de espera."**  
+   👉 `The database times out.`
+
+6. **"La API recibió la respuesta."**  
+   👉 `The API received the response.`
+
+7. **"El servidor envía la petición."**  
+   👉 `The server sends the request.`
+
+8. **"La base de datos agotó el tiempo de espera."**  
+   👉 `The database timed out.`
+
+9. **"La API responde la petición."**  
+   👉 `The API answers the request.`
+
+10. **"El servidor consumió mucho ancho de banda."**  
+   👉 `The server consumed a lot of bandwidth.`
