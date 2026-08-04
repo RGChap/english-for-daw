@@ -3,11 +3,6 @@
 [← Volver al Índice Principal](../README.md)
 
 ---
-# 📖 Glosario Auxiliar de Inglés Técnico (DAW)
-
-[← Volver al Índice Principal](../README.md)
-
----
 
 ## 🔤 Vocabulario y Verbos (Orden Alfabético por Castellano)
 
@@ -25,6 +20,7 @@
 | **Base de datos** | Database | - | - | Sustantivo |
 | **Borrar / Eliminar** | - | To delete / To remove | Deleted / Removed | Eliminar archivos o registros |
 | **Botón** | Button | - | - | Elemento de la interfaz (UI) |
+| **Cambiar** | - | To change | Changed | Modificar ajustes, roles o datos |
 | **Cargar** | - | To load | Loaded | Cargar páginas, tablas o datos |
 | **Carga útil / Datos** | Payload | - | - | **NO** es verbo (no usar *payloaded*) |
 | **Caerse / Romperse** | - | To crash / To go down | Crashed / Went down | Servidores o aplicaciones |
@@ -70,6 +66,7 @@
 | **Rol** | Role | - | - | Perfil de usuario (*Admin, User*) |
 | **Servidor** | Server | - | - | Sustantivo |
 | **Sesión** | Session | - | - | Periodo de usuario identificado |
+| **Sistema** | System | - | - | Sustantivo |
 | **Solucionar / Arreglar (Fallo)** | - | To fix | Fixed | **Para bugs** (*Fix a bug*) |
 | **Solucionar / Resolver (Incidencia)** | - | To resolve | Resolved | **Para issues** (*Resolve an issue*) |
 | **Subir / Enviar cambios (Git)** | - | To push | Pushed | Enviar cambios a GitHub/Servidor |
@@ -78,7 +75,6 @@
 | **Vincular** | - | To bind | Bound | Conectar datos con la vista |
 | **Vista** | View | - | - | Pantalla visual para el usuario |
 
----
 
 ### 💡 Dificultades Clave y Matices Gramaticales
 
