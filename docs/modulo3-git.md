@@ -82,3 +82,35 @@
 
 10. **"El servidor arregló el problema."**  
    👉 `The server fixed the issue.`
+
+## 🚀 Ejercicios de Consolidación (Artículos a/an y Pasados)
+
+1. **"El equipo solucionó un bug."**  
+   👉 `The team fixed a bug.`
+
+2. **"Ella creó un problema."**  
+   👉 `She created an issue.`
+
+3. **"Yo subí los cambios."**  
+   👉 `I pushed the changes.`
+
+4. **"El servidor tuvo un conflicto de fusión."**  
+   👉 `The server had a merge conflict.`
+
+5. **"Nosotros confirmamos los cambios."**  
+   👉 `We committed the changes.`
+
+6. **"La API tiene una nueva rama."**  
+   👉 `The API has a new branch.`
+
+7. **"El desarrollador trajo los cambios."**  
+   👉 `The developer pulled the changes.`
+
+8. **"La base de datos solucionó el problema."**  
+   👉 `The database fixed the issue.`
+
+9. **"Él fusionó la rama."**  
+   👉 `He merged the branch.`
+
+10. **"El equipo tiene un bug."**  
+   👉 `The team has a bug.`
