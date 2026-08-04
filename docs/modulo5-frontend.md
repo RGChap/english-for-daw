@@ -81,3 +81,35 @@
 
 10. **"El navegador mostró la página."**  
    👉 `The browser displayed the page.`
+
+## 📝 Práctica Extra 3 (Soluciones)
+
+1. **"El navegador renderizó el botón."**  
+   👉 `The browser rendered the button.`
+
+2. **"El desarrollador arregló un fallo de código."**  
+   👉 `The developer fixed a bug.`
+
+3. **"Nosotros resolvimos una incidencia."**  
+   👉 `We resolved an issue.`
+
+4. **"La interfaz muestra el estado."**  
+   👉 `The interface displays the state.`
+
+5. **"Ella ocultó la tabla."**  
+   👉 `She hid the table.`
+
+6. **"El servidor envió una respuesta."**  
+   👉 `The server sent a response.`
+
+7. **"El equipo vinculó la vista."**  
+   👉 `The team bound the view.`
+
+8. **"La aplicación cargó la página."**  
+   👉 `The app loaded the page.`
+
+9. **"Yo creé un componente adaptable."**  
+   👉 `I created a responsive component.`
+
+10. **"El navegador dio estilo a la interfaz."**  
+   👉 `The browser styled the interface.`
