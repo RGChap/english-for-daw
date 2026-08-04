@@ -11,6 +11,7 @@
 - **Payload:** Carga útil / Datos de la petición
 - **Record:** Registro / Fila de datos
 - **Data:** Datos *(¡Atención: NUNCA se escribe "datas"!)*
+- **To load / Loaded:** Cargar / Cargó
 - **To fetch / Fetched / Fetching:** Obtener o traer datos / Obtuvo / Obteniendo
 - **To receive / Received:** Recibir / Recibió
 - **To insert / Inserted:** Insertar / Insertó
