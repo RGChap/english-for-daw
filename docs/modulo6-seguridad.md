@@ -128,3 +128,35 @@ En este módulo aprenderás el vocabulario esencial para gestionar sesiones de u
 
 10. **"El equipo resolvió la incidencia y envió los cambios a GitHub."**  
     👉 `The team resolved an issue and pushed the changes to GitHub.`
+
+## 📝 Práctica Avanzada 3 (Soluciones)
+
+1. **"El usuario inició sesión y el servidor autenticó la credencial."**  
+   👉 `The user logged in, and the server authenticated the credentials.`
+
+2. **"El administrador cambió el rol y concedió el permiso."**  
+   👉 `The admin changed the role and granted permission.`
+
+3. **"La aplicación encriptó la contraseña antes de enviar los datos."**  
+   👉 `The app encrypted the password before sending the data.`
+
+4. **"El servidor autorizó la petición porque el token era válido."**  
+   👉 `The server authorized the request because the token was valid.`
+
+5. **"Nosotros cerramos sesión y la vista ocultó el botón."**  
+   👉 `We logged out and the view hid the button.`
+
+6. **"El sistema denegó el acceso a la base de datos."**  
+   👉 `The system denied access to the database.`
+
+7. **"El desarrollador creó una rama y corrigió un fallo de código."**  
+   👉 `The developer created a branch and fixed a bug.`
+
+8. **"La aplicación recibió la respuesta pero el servidor denegó el permiso."**  
+   👉 `The app received the response, but the server denied permission.`
+
+9. **"El usuario autenticado actualizó los datos de la tabla."**  
+   👉 `The authenticated user updated the data from the table.`
+
+10. **"El equipo resolvió la incidencia y envió los cambios a GitHub."**  
+    👉 `The team resolved an issue and pushed the changes to GitHub.`
