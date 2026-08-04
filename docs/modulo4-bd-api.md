@@ -86,4 +86,4 @@
 10. **"El servidor recibió los datos."**  
    👉 `The server received the data.`
 
-- **To load / Loaded:** Cargar / Cargó
+- 
