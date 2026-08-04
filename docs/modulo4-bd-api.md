@@ -50,3 +50,37 @@
 
 10. **"El equipo creó un nuevo endpoint."**  
    👉 `The team created a new endpoint.`
+
+---
+
+## 🚀 Ejercicios de Consolidación (Received & Data)
+
+1. **"La API recibió la consulta."**  
+   👉 `The API received the query.`
+
+2. **"El servidor trajo los datos."**  
+   👉 `The server fetched the data.`
+
+3. **"Insertamos un nuevo registro."**  
+   👉 `We inserted a new record.`
+
+4. **"El equipo actualizó el endpoint."**  
+   👉 `The team updated the endpoint.`
+
+5. **"La base de datos envía los datos."**  
+   👉 `The database sends the data.`
+
+6. **"Ella ejecutó la consulta."**  
+   👉 `She executed the query.`
+
+7. **"El desarrollador recibió el payload."**  
+   👉 `The developer received the payload.`
+
+8. **"Modifiqué el registro."**  
+   👉 `I updated the record.`
+
+9. **"La base de datos tiene una nueva tabla."**  
+   👉 `The database has a new table.`
+
+10. **"El servidor recibió los datos."**  
+   👉 `The server received the data.`
